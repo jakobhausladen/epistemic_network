@@ -64,11 +64,11 @@ If the agents are `Curious`, they will ultimately converge on true beliefs. Howe
 
 The surprising result is that this can lead **better-connected groups** to reach false consensus more often. This happens because all agents update on the same shared data, resulting in highly correlated beliefs.
 
-![False Consensus](images/false_consensus.PNG)
+<img src="images/false_consensus.PNG" alt="False Consensus" width="70%">
 
 In contrast, in **less-connected groups**, it is also possible for some members of the community to be led astray by misleading data. However, other agents are more likely to update on different data, keeping the research project alive. Eventually, these agents might bring the rest of the community back on track.
 
-![Less Polarization](images/less_connected.PNG)
+<img src="images/less_connected.PNG" alt="Less Polarization" width="70%">
 
 This phenomenon is known as the **Zollman Effect**. It states the counterintuitive result that for epistemically challenging problems, **less data sharing** might make research communities more likely to converge on the truth regarding a hypothesis.
 
